@@ -26,5 +26,3 @@ Adicionar conversão de outras unidades (peso, volume, velocidade).
 Implementar interface gráfica para melhorar a usabilidade.
 Criar testes automatizados para garantir a precisão das conversões.
 
-## Contribuições
-Contribuições são bem-vindas! Se você deseja contribuir.
